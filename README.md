@@ -22,6 +22,9 @@
 
 * This jupyter notebook provides some examples with three different datasets. 
 
+***
 
+### ClassificationPlotter.py
 
+This python file helps to visualize the data points for the first dataset. 
 
